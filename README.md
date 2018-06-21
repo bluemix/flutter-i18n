@@ -1,8 +1,14 @@
-# i18n_playground
+# i18n Demo
 
-A new Flutter project.
+A Flutter app that shows internationlizations (i18n) and how to switch between different langagues, and using translated texts for Widgets.
 
-## Getting Started
+I does not use Dart's intl package, instead it uses all of its translations directly in per language Maps (I saw it much cleaner than using Dart intl to generate translation strings).
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Flutter i18n (English-Arabic) demo](art/i18n_demo.gif)
+
+
+
+
+### Credits
+[Flutter-Arabic-RTL-Internationalization
+](https://github.com/moesaeed/Flutter-Arabic-RTL-Internationalization)
