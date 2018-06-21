@@ -1,0 +1,12 @@
+name: i18n_playground
+description: Layout direction changes in response to app language change.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  scoped_model: "^0.2.0"
+
+flutter:
+uses-material-design: true
